@@ -2,19 +2,19 @@
 name: paper-super-reviewer
 description: "端到端学术论文超审系统 — 15 个独立 Skill × 6 智能体。每个 agent 输出独立 log + 最终 report 自动导出。"
 version: 4.1.0
-author: AI_Fanatics
+author: AI-fanatics
 license: MIT
 platforms: [linux, macos, windows]
 metadata:
   hermes:
     tags: [paper-review, academic, peer-review, latex-audit, multi-agent-review]
     category: research
-    homepage: https://github.com/AI_Fanatics/paper-super-reviewer
+    homepage: https://github.com/AI-fanatics/paper-super-reviewer
 ---
 
 # Paper Super Reviewer — 论文超审 v4.1
 
-[![Stars](https://img.shields.io/github/stars/AI_Fanatics/paper-super-reviewer?style=social)](https://github.com/AI_Fanatics/paper-super-reviewer)
+[![Stars](https://img.shields.io/github/stars/AI-fanatics/paper-super-reviewer?style=social)](https://github.com/AI-fanatics/paper-super-reviewer)
 
 端到端学术论文超审系统。**15 个独立 Skill**，每个可单独调用或通过主 Skill 编排。
 
@@ -174,7 +174,7 @@ mkdir -p ~/.codex/skills/paper-super-reviewer
 cp -R skills/* ~/.codex/skills/paper-super-reviewer/
 
 # 完整安装
-git clone https://github.com/AI_Fanatics/paper-super-reviewer.git
+git clone https://github.com/AI-fanatics/paper-super-reviewer.git
 cp -R skills/* ~/.hermes/skills/research/
 ```
 
