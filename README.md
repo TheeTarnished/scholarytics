@@ -4,8 +4,6 @@
 [![Version](https://img.shields.io/badge/version-4.1.0-blue)](https://github.com/TheeTarnished/paper-super-reviewer)
 [![Skills](https://img.shields.io/badge/skills-15-green)](https://github.com/TheeTarnished/paper-super-reviewer/tree/main/skills)
 
-[![Star History Chart](https://api.star-history.com/svg?repos=TheeTarnished/paper-super-reviewer&type=Date)](https://star-history.com/#TheeTarnished/paper-super-reviewer&Date)
-
 **[English](#english) | [中文](#中文)**
 
 ---
@@ -106,3 +104,7 @@ cp -R skills/* ~/.hermes/skills/research/
 检查 LaTeX: path/to/paper.tex                   # LaTeX深度审计
 检查引用: paper.tex refs.bib                    # 引用深度审计
 ```
+
+---
+
+[![Star History Chart](https://api.star-history.com/svg?repos=TheeTarnished/paper-super-reviewer&type=Date)](https://star-history.com/#TheeTarnished/paper-super-reviewer&Date)
